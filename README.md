@@ -7,6 +7,8 @@ A collection of reflection removal methods
 
 * __Single Image Reflection Removal with Physically-based Rendering__, (2020) [[pdf]](https://arxiv.org/abs/1904.11934) [[code]](https://github.com/sookim813/Reflection_removal_rendering)
 
+* __Single Image Reflection Removal Through Cascaded Refinement（IBCLN）__, (CVPR 2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Single_Image_Reflection_Removal_Through_Cascaded_Refinement_CVPR_2020_paper.pdf) [[code]](https://github.com/JHL-HUST/IBCLN)
+
 * __Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements__, (2019)
   [[pdf]](https://arxiv.org/abs/1904.00637) [[Code]](https://github.com/Vandermode/ERRNet) 
 
