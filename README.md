@@ -5,6 +5,9 @@ A collection of reflection removal methods
 
 ### Single Image Methods
 
+* __Single Image Reflection Removal With Absorption Effect__, (CVPR 2021)
+
+
 * __Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images__, (2020)
 
 
@@ -48,6 +51,7 @@ A collection of reflection removal methods
 
 
 ### Multiple Images 
+* __Panoramic Image Reflection Removal__, (CVPR 2021)
 * __Learning to See Through Obstructions__, (CVPR 2020)
 * __The Visual Centrifuge: Model-Free Layered Video Representations__, (CVPR 2019) [[pdf]](https://arxiv.org/pdf/1812.01461.pdf)
 * __A computational approach for obstruction-free photography__, (2015)
