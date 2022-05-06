@@ -5,8 +5,9 @@ A collection of reflection removal methods
 
 ### Single Image Methods
 
-* __Single Image Reflection Removal With Absorption Effect__, (CVPR 2021)
+* __Location-aware Single Image Reflection Removal__, (ICCV 2021)
 
+* __Single Image Reflection Removal With Absorption Effect__, (CVPR 2021)
 
 * __Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images__, (2020)
 
