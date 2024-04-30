@@ -4,7 +4,6 @@ A collection of reflection removal methods
 # Awesome-Reflection-Removal
 
 ### Single Image Methods
-
 * __Location-aware Single Image Reflection Removal__, (ICCV 2021)
 
 * __Single Image Reflection Removal With Absorption Effect__, (CVPR 2021)
@@ -52,6 +51,7 @@ A collection of reflection removal methods
 
 
 ### Multiple Images 
+* __Neural Spline Fields for Burst Image Fusion and Layer Separation__, (CVPR 2024)
 * __Panoramic Image Reflection Removal__, (CVPR 2021)
 * __Learning to See Through Obstructions__, (CVPR 2020)
 * __The Visual Centrifuge: Model-Free Layered Video Representations__, (CVPR 2019) [[pdf]](https://arxiv.org/pdf/1812.01461.pdf)
