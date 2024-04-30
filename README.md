@@ -4,6 +4,13 @@ A collection of reflection removal methods
 # Awesome-Reflection-Removal
 
 ### Single Image Methods
+
+
+
+* __Revisiting Single Image Reflection Removal In the Wild__, (CVPR 2024)
+
+* __DSRNet: Single Image Reflection Separation via Component Synergy__, (ICCV 2023)
+
 * __Location-aware Single Image Reflection Removal__, (ICCV 2021)
 
 * __Single Image Reflection Removal With Absorption Effect__, (CVPR 2021)
@@ -46,6 +53,11 @@ A collection of reflection removal methods
 
 * Double-DIP: Unsupervised Image Decomposition via Coupled Deep-Image-Priors <br>
 [[CVPR 19']](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/resources/DoubleDIP.pdf)  [[Code]](https://github.com/yossigandelsman/DoubleDIP)
+
+
+### Interactive Methods
+
+* __Language-guided Image Reflection Separation__, (CVPR 2024)
 
 
 
