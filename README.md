@@ -9,11 +9,13 @@ A collection of reflection removal methods
 
 * __Revisiting Single Image Reflection Removal In the Wild__, (CVPR 2024)
 
-* __DSRNet: Single Image Reflection Separation via Component Synergy__, (ICCV 2023)
+* __DSRNet: Single Image Reflection Separation via Component Synergy__, (ICCV 2023) [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Single_Image_Reflection_Separation_via_Component_Synergy_ICCV_2023_paper.pdf) [[code]](https://github.com/mingcv/DSRNet)
 
 * __Location-aware Single Image Reflection Removal__, (ICCV 2021)
 
 * __Single Image Reflection Removal With Absorption Effect__, (CVPR 2021)
+
+*  __Trash or Treasure? An Interactive Dual-Stream Strategy for Single Image Reflection Separation__, (NeurIPS 2021) [[pdf]](https://arxiv.org/abs/2110.10546) [[code]](https://github.com/mingcv/YTMT-Strategy)
 
 * __Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images__, (2020)
 
