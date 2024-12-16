@@ -110,4 +110,6 @@ A collection of reflection removal methods
 ### Researcher
 - Boxin Shi
 - Renjie Wan
+- Qifeng Chen
+- Yu Li
 - Chenyang Lei
