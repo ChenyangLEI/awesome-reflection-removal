@@ -107,3 +107,7 @@ A collection of reflection removal methods
 
  [[Zhang et al.]](https://drive.google.com/drive/folders/1NYGL3wQ2pRkwfLMcV2zxXDV8JRSoVxwA)
  
+### Researcher
+- Boxin Shi
+- Renjie Wan
+- Chenyang Lei
