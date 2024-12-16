@@ -58,7 +58,7 @@ A collection of reflection removal methods
 
 
 ### Interactive Methods
-
+* __FIRM: Flexible Interactive Reflection ReMoval__, (AAAI 2025)
 * __Language-guided Image Reflection Separation__, (CVPR 2024)
 
 
